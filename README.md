@@ -2,10 +2,10 @@
 
 
 ### 1. copy the link below to your terminal
-```git clone https://github.com/Sugarcothe/marvelo.git```
+```git clone https://github.com/JOSEPH-DAYO/HISTORIAN.git```
 
 ### 2. Navigate to the cloned project
-```cd marvelo```
+```cd HISTORIAN```
 
 ### 3. Install packages
 ```npm install```
